@@ -10,6 +10,12 @@ You can use it in:
 - A copy of Arcaea
 - Any non-commercial project
 
+# Show
+|      |      |
+| :--: | :--: |
+|<image src="songs/dl_grievouslady/base_6-5-0_5.png" height=128>|<image src="songs/dl_fractureray/base_12-5-0_5.png" height=128>|
+|Grievous Lady|Fracture Ray|
+
 # Detail
 
 Images are 512x512 pixels, and organized same as arcaea's origin structure. Naming pattern is: `[difficulty]_[id]-[cfg]-[denoise].png`. Dots are replaced with underslash.
@@ -20,7 +26,7 @@ There may be mutiple images per origin song cover.
 
 Meant to add some nekomimi style to your bots or something.
 
-Perhaps avoiding Lowiro's TOS issues.
+Perhaps dont need to worry about Lowiro's tos issues.
 
 > Prompt：
 > extremely detailed CG unity wallpaper, masterpiece, best quality, glory light,long hair, (hair ornament),uniform,((loli)), cat ear,cat tail, sideways glance_at_viewer,solo,(frills),cute face,(rich decoration),warm tone
