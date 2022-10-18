@@ -27,6 +27,10 @@ Perhaps avoiding Lowiro's TOS issues.
 >
 > Most images were generated using Euler a sampling and step of 35, cfg 5.0, denoise strength 0.5 .
 
+# PRs
+
+PRs are welcomed as some images are poorly generated. ~~Generate 16 each and choose one is not a easy job to do~~
+
 # LICENSE
 
 Licensed under CC BY-NC with ❤.  
